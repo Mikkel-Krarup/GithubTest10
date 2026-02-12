@@ -8,3 +8,6 @@ Console.WriteLine("Også denne");
 
 Console.WriteLine("På min branch");
 
+Console.WriteLine("og denne");
+Console.WriteLine("På min branch");
+
